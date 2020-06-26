@@ -1,10 +1,10 @@
 <!--
- * @Author: your name
+ * @Author: peerless
  * @Date: 2020-06-26 13:59:13
- * @LastEditTime: 2020-06-26 15:18:41
- * @LastEditors: your name
+ * @LastEditTime: 2020-06-26 15:24:08
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \SuperficialJ.github.io\_posts\2013-07-16-chinese-markdown-cheatsheet.md
+ * @FilePath: \SuperficialJ.github.io\_posts\2020-06-26-create-first-blog.md
 --> 
 ---
 layout: post
